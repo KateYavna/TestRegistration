@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestRegistration</string>
+    <string name="tvRegistration">Registration</string>
+    <string name="etLogin">login (up to 20)</string>
+    <string name="etEmail">email</string>
+    <string name="etPassword">password (7 and more)</string>
+    <string name="etAdress">address (in Ukraine)</string>
+    <string name="etAge">age (for adults)</string>
+    <string name="tvSuccess">You have just successfuly registered</string>
+</resources>
